@@ -35,6 +35,7 @@ Maneira de dar instrução ao computador.
 
 - [x] Operadores de atribuição de valor =
 - [x] Operador de concatenação +
+- [x] Operadores de comparação: == != < > <= >=
 
 ## Arrays
 
@@ -71,13 +72,14 @@ Explicação: count é = 1 então, count é menor e igual a 10. count é igual a
 
 ## Condicionais
 
--[] Switch
+- [x] Switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
--[x] Importação de módulos (require, commonJS)
--[x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] Importação de módulos (require, commonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
 
 ## Programação assíncrona e Promises:
 
--[x] Uso de funções assíncronas (async/await)
+- [x] Uso de funções assíncronas (async/await)
