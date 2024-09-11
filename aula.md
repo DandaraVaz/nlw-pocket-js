@@ -47,5 +47,24 @@ Maneira de dar instrução ao computador.
 
 ## Function
 - [x] Criar uma função, passar argumento
+    function start() {}
+
 - [x] Executar uma função
+
 - [x] arrow function / named function
+    const criarMeta = () => {}
+
+## Estrutura de repetição 
+- [x] While
+
+    const start = () => {
+    let count = 1
+    while(count <= 10) {
+        console.log(count)
+        count = count + 1
+    }
+}
+
+start()
+
+Explicação: count é = 1 então, count é menor e igual a 10. count é igual a count + 1. Essa função será executada por 10 vezes.
