@@ -68,3 +68,7 @@ Maneira de dar instrução ao computador.
 start()
 
 Explicação: count é = 1 então, count é menor e igual a 10. count é igual a count + 1. Essa função será executada por 10 vezes.
+
+## Condicionais
+
+-[] Switch
