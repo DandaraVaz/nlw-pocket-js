@@ -72,3 +72,12 @@ Explicação: count é = 1 então, count é menor e igual a 10. count é igual a
 ## Condicionais
 
 -[] Switch
+
+## Módulos em Node.js:
+
+-[x] Importação de módulos (require, commonJS)
+-[x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+-[x] Uso de funções assíncronas (async/await)
