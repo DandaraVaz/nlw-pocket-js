@@ -41,7 +41,7 @@ Maneira de dar instrução ao computador.
 ## Arrays
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions) 
+- [x] Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions) 
       As HOF (Higher Order Functions) sempre vão receber uma função.   Ex: ((meta) => {return meta.checked})
 
 ## Objetos
