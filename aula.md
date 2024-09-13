@@ -82,6 +82,12 @@ Explicação: count é = 1 então, count é menor e igual a 10. count é igual a
 
 - [x] Importação de módulos (require, commonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] FS (File System)
+
+## JSON
+- [x] JavaScript Object Notation (.json)
+- [x] Json.parse(): transforma de JSON para JS
+- [x] JSON.stringify(): transforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 
